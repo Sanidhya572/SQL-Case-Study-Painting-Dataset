@@ -1,3 +1,6 @@
+# The below code helps you to load csv into your PostgreSQL 
+# These are the simple steps that you need to follow
+ 
 import pandas as pd
 from sqlalchemy import create_engine
 
