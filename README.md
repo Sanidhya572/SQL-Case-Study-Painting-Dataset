@@ -23,5 +23,5 @@
 This project offers valuable insights into the art world, enabling data-driven decision-making processes and facilitating further exploration. Stay tuned for more updates and analyses!
 
 
-Dataset:  
-![Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+Dataset Link:  
+(https://www.kaggle.com/datasets/mexwell/famous-paintings)
